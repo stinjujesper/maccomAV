@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Maccom AV
+Maccom AV 매콤백신의 공식사이트입니다.
 
-You can use the [editor on GitHub](https://github.com/stinjujesper/maccomAV/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+매콤백신은 박민찬에 의해 작성된 바이러스 백신입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+매콤백신의 바이러스엔진인 매콤엔진은 박민찬의 독자개발로 만들어졌습니다.
 
-### Markdown
+그러므로 매콤엔진은 우리나라의 바이러스에 여타백신보다 더욱 강합니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+매콤백신의 엔진의 바이러스 탐지기법은 시그니쳐기법을 이용합니다.
 
-```markdown
-Syntax highlighted code block
+요즘 사용되는 여타 백신들은 시그니쳐기법을 주로 사용하며 휴리스틱기법을 주로 곁들여 사용합니다.
 
-# Header 1
-## Header 2
-### Header 3
+하지만 휴리스틱기법은 오진율이 높으며 일반사용자들이 쓰기에는 약간 어려움이 있습니다.
 
-- Bulleted
-- List
+그러므로 매콤엔진은 휴리스틱기법을 빼고 시그니쳐기법만을 이용하여 가장 빠르고 가벼운
 
-1. Numbered
-2. List
+엔진이되었습니다. 시그니쳐기법은 지금까지 나온 바이러스만 잡을수있고 변형된 바이러스는
 
-**Bold** and _Italic_ and `Code` text
+잡지못한다는 단점이 있습니다. 그단점을 보완하기위해 매콤백신의 개발사인 스틴 백신 팩토리는 
 
-[Link](url) and ![Image](src)
-```
+(C)VirusShare 등을 비롯한 여러 바이러스관련 업계들과 협력을하며 가장빠른 업데이트를 기반으로
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+단점을 보완할 생각입니다.
 
-### Jekyll Themes
+또한 매콤 바이러스는 윈도우 2000 이상의 모든 윈도우 운영체제에서 쓰실수있습니다.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stinjujesper/maccomAV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contact to Maccom AV
+Maccom AV 매콤백신의 공식연락처는 stin10@naver.com입니다. 버그신고및 질문은 여기로. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Warning
+Maccom AV 매콤백신의 압축파일은 C:\의 최상 디렉터리에풀어 C:\maccom에 폴더가 위치해야만 작동합니다.
