@@ -27,7 +27,7 @@ Maccom AV 매콤백신의 공식사이트입니다.
 
 ## Download
 다운로드:
-https://github.com/stinjujesper/maccomAV/raw/master/%EB%A7%A4%EC%BD%A4%EB%B0%B1%EC%8B%A0.zip
+https://github.com/stinjujesper/maccomAV/
 
 ## Contact to Maccom AV
 Maccom AV 매콤백신의 공식연락처는 stin10@naver.com입니다. 버그신고및 질문은 여기로. 
